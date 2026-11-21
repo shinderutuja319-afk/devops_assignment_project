@@ -123,6 +123,20 @@ devops_assignment_project/
 - Enabling HTTPS using Let's Encrypt and Certbot.
 - Managing cloud infrastructure on AWS EC2.
 
+## Project Screenshots
+
+### Application running over HTTPS
+![Wisecow HTTPS](https://github.com/shinderutuja319-afk/devops_assignment_project/blob/f1f12d8f0712c95d29c4b4e41a04f3dc257b4429/projectsucces_screenshots/TLS%20succes%20.png)
+
+### Kubernetes Deployment
+![Kubernetes Pods](https://github.com/shinderutuja319-afk/devops_assignment_project/blob/f1f12d8f0712c95d29c4b4e41a04f3dc257b4429/projectsucces_screenshots/Screenshot%20(329).png)
+
+### GitHub Actions CI/CD
+![GitHub Actions](https://github.com/shinderutuja319-afk/devops_assignment_project/blob/f1f12d8f0712c95d29c4b4e41a04f3dc257b4429/projectsucces_screenshots/ci-cd%20sucess.png)
+
+### SSL Certificate
+![SSL Certificate](https://github.com/shinderutuja319-afk/devops_assignment_project/blob/f1f12d8f0712c95d29c4b4e41a04f3dc257b4429/projectsucces_screenshots/Tls%20certificate%20issue%20screenshot.png)
+
 ## Author
 
 **Rutuja Shinde**
